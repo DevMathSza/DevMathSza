@@ -11,9 +11,12 @@
 
 
 ---
+<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" /> </p> <p align="center"><code>stay minimal. stay consistent.</code></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMathSza&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" /> </p> <p align="center"><code>stay minimal. stay consistent.</code></p>
