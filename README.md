@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Java • Python • SQL • Oracle
+  "Christ Jesus came into the world to save sinners—of whom I am the worst."
 </p>
 
 
