@@ -1,4 +1,4 @@
-<h1 align="center">Matheus (Math)</h1>
+<h1 align="center">Dev Matheus </h1>
 
 <p align="center">
   <code>aspiring backend developer</code>
